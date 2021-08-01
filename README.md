@@ -1,1 +1,1 @@
-This is Stef's secont git project
+This is Stef's second git project
